@@ -1,0 +1,5 @@
+mode: atomic
+github.com/sample/a/b/b-file.go:5.47,10.2 4 1
+github.com/sample/a/b/b-file.go:11.47,16.2 4 1
+github.com/sample/a/b/b-file.go:18.47,22.2 2 0
+github.com/sample/a/a-file1.go:5.47,22.2 6 0

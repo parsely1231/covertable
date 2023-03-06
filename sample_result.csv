@@ -1,0 +1,6 @@
+filepath,coverage,total statements,tested,not tested
+github.com/sample,50.00,16,8,8
+github.com/sample/a,50.00,16,8,8
+github.com/sample/a/a-file1.go,0.00,6,0,6
+github.com/sample/a/b,80.00,10,8,2
+github.com/sample/a/b/b-file.go,80.00,10,8,2
