@@ -29,7 +29,7 @@ github.com/sample/a/a-file1.go:5.47,22.2 6 0
 
 example
 | filepath                        | coverage | total statements | tested | not tested | 
-| :-----------------------------: | :------: | :--------------: | :----: | :--------: | 
+| :------------------------------ | :------: | :--------------: | :----: | :--------: | 
 | github.com/sample               | 50.00    | 16               | 8      | 8          | 
 | github.com/sample/a             | 50.00    | 16               | 8      | 8          | 
 | github.com/sample/a/a-file1.go  | 0.00     | 6                | 0      | 6          | 
